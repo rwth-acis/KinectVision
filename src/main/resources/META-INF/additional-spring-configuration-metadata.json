@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "mqtt.kinect.userid",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.kinect.userid."
+    }
+  ]
+}
